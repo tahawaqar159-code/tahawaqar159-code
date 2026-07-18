@@ -44,3 +44,8 @@ Currently, I am focusing on C++ and Java while learning Git and GitHub.
 Connect
 GitHub:
 https://github.com/tahawaqar159-code
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tahawaqar159-code&show_icons=true&theme=tokyonight" />
+</p>
