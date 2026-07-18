@@ -26,11 +26,15 @@ Currently, I am focusing on C++ and Java while learning Git and GitHub.
 ---
  Languages & Tools
 
-- C++
-- Java
-- Git
-- GitHub
-- Visual Studio Code
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
+</p>
 ---
  Featured Projects
 - C++ OOP Basics
