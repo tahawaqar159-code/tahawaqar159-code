@@ -1,16 +1,39 @@
-## Hi there 👋
+ Hi, I'm Taha Waqar
 
-<!--
-**tahawaqar159-code/tahawaqar159-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate at AIR University, Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning programming, solving problems, and building projects to improve my skills.
+
+Currently, I am focusing on C++ and Java while learning Git and GitHub.
+
+---
+ Currently Learning
+- C++
+- Object-Oriented Programming (OOP)
+- Java
+- Git & GitHub
+---
+ Goals for 2026
+- Build strong programming fundamentals
+- Learn Data Structures & Algorithms
+- Upload all university projects to GitHub
+- Build a professional developer portfolio
+---
+ Languages & Tools
+
+- C++
+- Java
+- Git
+- GitHub
+- Visual Studio Code
+---
+ Featured Projects
+- C++ OOP Basics
+- Java OOP Programs
+- University Lab Tasks
+---
+Connect
+GitHub:
+https://github.com/tahawaqar159-code
