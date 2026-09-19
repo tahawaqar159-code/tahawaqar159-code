@@ -43,10 +43,3 @@ Connect
 GitHub:
 https://github.com/tahawaqar159-code 
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahawaqar159-code&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
